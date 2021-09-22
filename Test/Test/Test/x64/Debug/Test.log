@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Андрей\Downloads\Test\Test\Test\renderer.hpp(4,10): fatal error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  renderer.cpp
+C:\Users\Андрей\Downloads\Test\Test\Test\renderer.hpp(4,10): fatal error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  Создание кода...
